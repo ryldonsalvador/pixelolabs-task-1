@@ -103,7 +103,7 @@
     background: url(../img/section-3-image-graphic-mob.png) no-repeat right /
       200px;
   }
-  .container-1360 {
+  .container-1340 {
     padding: 0 30px !important;
   }
   .section-6-one-column-and-slider .image-content-left {
@@ -113,7 +113,7 @@
   .section-6-one-column-and-slider .image-content-slider {
     width: 100% !important;
   }
-  .section-6-one-column-and-slider .container-1360 {
+  .section-6-one-column-and-slider .container-1340 {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
@@ -269,11 +269,11 @@
     position: relative;
     height: 78.5vw;
   }
-  .hero .container-1360 {
+  .hero .container-1340 {
     background-color: #302323;
     padding-top: 0px !important;
   }
-  .hero .container-1360 .hero-content {
+  .hero .container-1340 .hero-content {
     padding: 30px 0 !important;
   }
   .section-4-image-slider .section-4-product-image {
